@@ -321,7 +321,7 @@ svg{
 }
 
 .subscribe-subheading{
-    line-height: 0.5em;
+    line-height: 2em;
     margin-left:-100px;
 }
 
@@ -344,7 +344,7 @@ svg{
     width:10em;
 }
 
-.newsletter-b0x{
+.newsletter-box{
     height:auto;
 }
 
@@ -378,24 +378,16 @@ svg{
     width:100%;
 }
 
-@media(max-width:768px){
-    .container-fluid{
-        padding-left:5px;
-        padding-right:5px;
-    }
-
-    .feature{
-        width:100%;
-    }
-
-@media(max-width:1000px){
-    .hide-nav{
-        display:none;
-    }
-
-    body{
-        margin-left:0;
-        margin-right:0;
-    }
+.subscribe-footer-news, .image-container{
+    background: url(https://g.newsweek.com/themes/newsweek/images/subscribe-img2.gif) center center / cover no-repeat;
+    height: 160px;
 }
+
+.subscribe-footer-news, .info{
+    border: 1px solid #d9d9d9;
+    border-top: none;
+    padding: 25px 0;
 }
+
+
+
