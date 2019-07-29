@@ -4,6 +4,7 @@ This Project consists of replicating the newsweek webpage. The emphasis is on us
 Used:
 - HTML
 - Bootstrap
+- CSS
 
 # Authors
 - Adebola Adeniran  [https://github.com/onedebos/]
