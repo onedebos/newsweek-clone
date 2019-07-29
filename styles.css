@@ -144,10 +144,7 @@ svg{
     text-decoration: none;
 }
 
-/* .container-fluid{
-    padding-left:100px;
-    padding-right:100px;
-} */
+
 
 .section-heading{
     font-family: var(--heading-font);
@@ -321,7 +318,7 @@ svg{
 }
 
 .subscribe-subheading{
-    line-height: 2em;
+    line-height: 1em;
     margin-left:-100px;
 }
 
