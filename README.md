@@ -11,5 +11,5 @@ Used:
 
 # The Website
 Follow this link to access the Website 
-https://fatymahmed.github.io/newsweek-clone/
+https://onedebos.github.io/newsweek-clone/
 
