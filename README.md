@@ -6,7 +6,10 @@ Used:
 - Bootstrap
 - CSS
 
-# Authors
+# Preview
+![screenshot](./app_screenshot.png)
+
+# Author
 - Adebola Adeniran  [https://github.com/onedebos/]
 
 # The Website
